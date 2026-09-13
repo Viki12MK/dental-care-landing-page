@@ -92,28 +92,8 @@ nav ul.nav-links li a:hover {
 /* Hidden by default on descktop*/
 
 .topnav {
-    /* background-color: var(--primary-color);
-    color: var(--white-color);
-    overflow: hidden;
-    width: 100%;
-    height: auto; */
     display: none;
 }
-
-/* .topnav a {
-    float: left;
-    display: block;
-    color: var(--white-color);
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-}
-
-.topnav a:hover {
-    background-color: var(--white-color);
-    color: var(--primary-color);
-} */
 
 .icon {
     display: none;
